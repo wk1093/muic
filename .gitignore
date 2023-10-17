@@ -1,0 +1,4 @@
+.idea/
+cmake-build-*/
+main.c
+# we ignore main.c because it is just for testing
